@@ -1,5 +1,7 @@
 # 合同勉強会in大都会岡山 -2018 Winter-
 
+[![Join the chat at https://gitter.im/gbdaitokai/gbdaitokai2018winter](https://badges.gitter.im/gbdaitokai/gbdaitokai2018winter.svg)](https://gitter.im/gbdaitokai/gbdaitokai2018winter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## このリポジトリはなに？
 
 [合同勉強会in大都会岡山 -2018 Winter-](https://gbdaitokai.connpass.com/event/96596/) の発表順の元ネタです。  
