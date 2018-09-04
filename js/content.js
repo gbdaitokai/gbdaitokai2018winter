@@ -20,7 +20,7 @@ function applyEventData(data) {
   document.getElementById('footer').innerText = title;
   var datetime = moment(event.started_at).format('YYYY-MM-DD(ddd) HH:mm - ') + 
                  moment(event.ended_at).format('HH:mm');
-  var twUrl = 'http://twitter.com/intent/tweet?text=' + encodeURIComponent(title + ' ' + location.href + ' #' + hashTag) + '&amp;url=' + encodeURIComponent(location.href);
+  var twUrl = 'http://twitter.com/intent/tweet?text=' + encodeURIComponent(title + ' ' + location.href + ' #' + hashTag);
   document.getElementById('share-tw').href = twUrl;
   var fbUrl = 'http://www.facebook.com/sharer.php?u=' + encodeURIComponent(location.href) + '&amp;t=' + encodeURIComponent(title);
   document.getElementById('share-fb').href = fbUrl;
