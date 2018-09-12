@@ -2,6 +2,28 @@
 
 ## タイトル
 
+Firebase Hostingにシングルページアプリケーションをデプロイしてみよう
+
+## 登壇者
+
+逸見　誠 / Twitter:@mako_wis / Okayama.rb / 株式会社クレオフーガ Engineering Manager
+
+## 概要
+
+FirebaseにはHosting機能があり、シングルページアプリケーションをデプロイする事ができます。
+以前に発表した「[昔懐かしい雰囲気のページ](https://teijigo-beer-ti.me/)」もFirebase Hostingで運用しています。
+
+今回の発表では、シングルページアプリケーションを
+
+- コマンドラインからデプロイする方法
+- CI（Travis CI）を利用した自動デプロイ
+
+について説明する予定です。
+
+***
+
+## タイトル
+
 RDB THE Right Way ~ RDB設計について ~ 
 
 ## 登壇者
