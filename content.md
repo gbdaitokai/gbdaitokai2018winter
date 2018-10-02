@@ -58,6 +58,21 @@ Q. なぜ作るの？
 A. そこにyaccがあるからだ
 
 ***
+## タイトル
+
+Microsoft AzureではじめるJava開発
+
+## 登壇者
+
+大中浩行 / Twitter:@setoazusa / TDDBC / JJUGイベントスタッフ / 錬金術MeetUp / Microsoft MVP for Developer Technologies
+
+## 概要
+
+Microsoft AzureといえばMicrosoftが運営するクラウドサービスということもあり、.NETのイメージが強いですが、実際にはJavaを始めとする多様な環境をサポートするオープンなプラットフォームです。
+
+本セッションではMicrosoft AzureでのJava開発について、Azure App Serviceをはじめとする各種サービスを紹介しながら、そのお手軽さについて紹介します。
+
+***
 
 ## タイトル
 
