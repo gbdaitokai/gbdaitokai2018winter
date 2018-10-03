@@ -1,2 +1,5 @@
 * [Okayama.rb](https://okaruby.connpass.com/)
 * [岡山システムプログラミング勉強会](https://okasyspro.connpass.com/)
+* [JJUG(日本Javaユーザーグループ)](http://www.java-users.jp/)
+* [TDDBC(TDD Boot Camp)](https://tddbc.connpass.com/)
+* [錬金術MeetUp](https://alchemists.hatenablog.com/)
