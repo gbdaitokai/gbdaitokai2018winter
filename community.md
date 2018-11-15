@@ -3,3 +3,4 @@
 * [JJUG(日本Javaユーザーグループ)](http://www.java-users.jp/)
 * [TDDBC(TDD Boot Camp)](https://tddbc.connpass.com/)
 * [錬金術MeetUp](https://alchemists.hatenablog.com/)
+* [Okayama Managers Meeting](https://omm.connpass.com/)
