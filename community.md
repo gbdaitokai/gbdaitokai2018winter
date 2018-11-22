@@ -4,3 +4,4 @@
 * [TDDBC(TDD Boot Camp)](https://tddbc.connpass.com/)
 * [錬金術MeetUp](https://alchemists.hatenablog.com/)
 * [Okayama Managers Meeting](https://omm.connpass.com/)
+* [JAWS-UG 岡山](https://jaws-ug-okayama.doorkeeper.jp/)
