@@ -128,6 +128,24 @@ Microsoft AzureといえばMicrosoftが運営するクラウドサービスと�
 
 そのサービスの概要や特徴をはじめとして、Pixelaを支える技術・工夫したポイントなどのご紹介を通じて、みなさんの「趣味サービス開発」を少しでも後押しすることができたら、と思います。
 
+Clickで始める自作CLIツール - デコレータの活用例 -
+
+## 登壇者
+
+陶山嶺 / Twitter:@rhoboro / Onomichi.py / GCPUG Okayama
+
+## 概要
+
+昨年は「[Python再発見 - デコレータとその活用パターン -](https://slideship.com/users/@rhoboro/presentations/2017/12/YagWLokYuWX5Er78UdLbWX/)」と題して、Pythonのデコレータという機能を紹介しました。  
+このデコレータを活用した例として、CLIツールを簡単に作ることができる[Click](https://click.palletsprojects.com/en/7.x/)というライブラリを紹介します。
+
+* Clickの概要と基本
+* コマンドのインストール
+* オプションの追加
+* サブコマンドの追加
+
+CLIツールを作りながら、デコレータの便利さを感じていただければと思います。
+
 ***
   
 ## タイトル
