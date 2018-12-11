@@ -124,7 +124,7 @@ Clickで始める自作CLIツール - デコレータの活用例 -
 
 ## 概要
 
-昨年の[合同勉強会 in 大都会岡山 -2017 Winter-](https://gbdaitokai.connpass.com/event/58025/)では、[Python再発見 - デコレータとその活用パターン -](https://slideship.com/users/@rhoboro/presentations/2017/12/YagWLokYuWX5Er78UdLbWX/)と題して、Pythonのデコレータという機能を紹介しました。  
+昨年は「[Python再発見 - デコレータとその活用パターン -](https://slideship.com/users/@rhoboro/presentations/2017/12/YagWLokYuWX5Er78UdLbWX/)」と題して、Pythonのデコレータという機能を紹介しました。  
 このデコレータを活用した例として、CLIツールを簡単に作ることができる[Click](https://click.palletsprojects.com/en/7.x/)というライブラリを紹介します。
 
 * Clickの概要と基本
