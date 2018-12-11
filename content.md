@@ -130,6 +130,8 @@ Microsoft AzureといえばMicrosoftが運営するクラウドサービスと�
 
 Clickで始める自作CLIツール - デコレータの活用例 -
 
+***
+
 ## 登壇者
 
 陶山嶺 / Twitter:@rhoboro / Onomichi.py / GCPUG Okayama
