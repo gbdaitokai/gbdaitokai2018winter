@@ -7,3 +7,4 @@
 * [JAWS-UG 岡山](https://jaws-ug-okayama.doorkeeper.jp/)
 * [GCPUG Okayama](https://gcpug-okayama.connpass.com/)
 * [Onomichi.py](https://onopy.github.io/)
+* [Okayama.go](https://okayamago.connpass.com/)
